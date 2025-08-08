@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Stats preview card component
 
 ![Design preview for the Stats preview card component coding challenge](preview.jpg)
@@ -89,3 +90,7 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# frontendmentor-stats-preview-card
+A responsive stats preview card component challenge from Frontend Mentor. Built with HTML5, CSS3,and Flexbox. Features mobile-first design and custom Google Fonts.
+>>>>>>> fec4af09a3f65239d9dfbc2714a35932e5ee2a94
